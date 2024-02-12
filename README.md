@@ -1,0 +1,1 @@
+[Chapter 1: NumPy Basics: Arrays and Vectorized Computation](Numpy.ipynb)
